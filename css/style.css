@@ -41,7 +41,6 @@ body{
 .borda-dinamica {
     position: relative;
     cursor: pointer;
-    font-family: ;
 }
 
 .borda-dinamica:hover {
