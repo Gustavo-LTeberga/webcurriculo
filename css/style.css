@@ -1,15 +1,13 @@
 .color-one {
 
-    /*background: linear-gradient(90deg, #A84314, #E06B1F, #FFB347);*/
     background: linear-gradient(90deg, #8F3A12, #C85A1E, #F2A43A);
-    /*box-shadow: inset 0 0 25px rgba(255, 180, 90, 0.6);*/
 
 }
 .gif-fundo{
 
     min-height: 100vh;
 
-    background-image: url("fundo.gif");
+    background-image: url("../img/fundo.gif");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
