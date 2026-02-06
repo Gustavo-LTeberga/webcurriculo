@@ -5,3 +5,17 @@
     /*box-shadow: inset 0 0 25px rgba(255, 180, 90, 0.6);*/
 
 }
+.gif-fundo{
+
+    min-height: 100vh;
+
+    background-image: url("fundo.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.tamanho-fundo{
+    min-height: 40rem;
+}
