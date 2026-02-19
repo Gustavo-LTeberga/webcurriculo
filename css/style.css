@@ -1,14 +1,5 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-.color-one {
-
-    background: linear-gradient(90deg, #8F3A12, #C85A1E, #F2A43A);
-
-}
-
-.gif-fundo {
-
     min-height: 100vh;
 
     background-image: url("../img/fundo.gif");
@@ -18,9 +9,17 @@ body{
 
 }
 
-.tamanho-fundo {
-    min-height: 34rem;
+.color-one {
+
+    background: linear-gradient(90deg, #8F3A12, #C85A1E, #F2A43A);
+
 }
+
+.tamanho-fundo {
+    min-height: 100vh;
+}
+
+
 
 .fade {
     opacity: 0;
